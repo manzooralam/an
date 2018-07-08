@@ -7,4 +7,6 @@
         
        <Q-3> Find the smallest number of five digits exactly divisible by 16, 24,36 and 54.
         Ans: 10000 + LCM - 10000 % LCM = 10368
+        
+#Manzoor
   
